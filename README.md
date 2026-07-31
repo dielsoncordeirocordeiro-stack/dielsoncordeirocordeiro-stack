@@ -38,13 +38,15 @@ Git • GitHub • VS Code • Postman
 
 ---
 
-## 💼 Projetos em Destaque
+## Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
+|---|---|---|
 | 🗳️ Sistema de Votação | Sistema web com login e banco de dados | Flask, Python |
-| ✅ App de Tarefas | CRUD completo de tarefas | React, JS |
+| ✅ App de Tarefas | CRUD completo de tarefas | React, JavaScript |
 | 📋 Sistema de Cadastro | API com banco de dados | Flask, SQLite |
-| 🌍 Site Responsivo | Interface moderna adaptável | HTML, CSS, JS |
+| 🌍 Site Responsivo | Interface moderna e adaptável | HTML, CSS, JavaScript |
+| 🤖 Tamagotchi IA | Robô interativo com sensores e display OLED | ESP32, C++, IA |
 
 ---
 
