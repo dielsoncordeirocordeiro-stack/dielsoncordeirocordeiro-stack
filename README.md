@@ -1,5 +1,5 @@
 # 👨‍💻 Dielson Cordeiro  
-**Técnico em Informática (em formação) | Suporte de TI | Desenvolvedor Web Júnior**
+**Técnico em Informática | Suporte de TI | Desenvolvedor Web Júnior**
 
 📍 Brasil  
 📧 dielsoncordeirocordeiro@gmail.com  
