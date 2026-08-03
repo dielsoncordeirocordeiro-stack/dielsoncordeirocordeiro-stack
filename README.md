@@ -139,14 +139,12 @@ Desenvolvimento de sistemas web utilizando Python, Flask e FastAPI, aplicando ar
 
 📧 **dielsoncordeirocordeiro@gmail.com**
 
-💼 LinkedIn:
-(Adicionar)
-
 🌐 Portfólio:
-(Adicionar)
+https://portifolio-git-main-dielson-cordeiros-projects.vercel.app/
 
-🐙 GitHub:
-https://github.com/dielsoncordeirocordeiro-stack
+🐙 whatsapp:
+WhatsApp: https://wa.me/5586999442732
+
 
 ---
 
