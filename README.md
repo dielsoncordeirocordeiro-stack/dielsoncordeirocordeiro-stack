@@ -135,12 +135,6 @@ Desenvolvimento de sistemas web utilizando Python, Flask e FastAPI, aplicando ar
 
 ---
 
-# 📊 Estatísticas do GitHub
-
-<!-- GitHub Stats -->
-
----
-
 # 📫 Contato
 
 📧 **dielsoncordeirocordeiro@gmail.com**
